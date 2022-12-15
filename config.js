@@ -113,7 +113,7 @@ module.exports = {
                 },
                 tokenAddress: '0x2b591e99afe9f32eaa6214f7b7629768c40eeb39',
                 symbol: 'HEX',
-                decimals: 8,
+                decimals: 18,
             }
         },
         netId3: {
@@ -232,14 +232,14 @@ module.exports = {
             },
             storm: {
                 instanceAddress: {
-                    10: '0xB8cC42C43Bec92B305D4850C4D64818Fb275919a',
-                    100: '0x4e70f58Fb952f65235DB0CeF641ac71c44434Cd4',
-                    1000: '0x7242CA65719710F0f9c00977eE9938fda21cb38c',
-                    10000: '0x53bd8F43B4468c8D963c81cdD61eE5a2D4C91631'
+                    10: '0x7E08600c543cc02E75a9941D538a6DcA76801b8d',
+                    100: '0xba009f68347886f6fbed2b7374d2ca3702c81625',
+                    1000: '0x3EF0D0A4F138dEf35676208c4303157fe5760Ecc',
+                    10000: '0x970c0AE31904290b79431398eB79E76732Ac5AA9'
                 },
-                tokenAddress: '0xf1D99a8009f431b72E390E63A85E91D6CE4ECD7d',
+                tokenAddress: '0xbBC4C1e5Bafe890B48639d493ca218EDa13f8e7b',
                 symbol: 'STORM',
-                decimals: 8,
+                decimals: 18,
             },
         },
         netId97: {
