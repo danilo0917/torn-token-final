@@ -233,7 +233,7 @@ module.exports = {
             storm: {
                 instanceAddress: {
                     10: '0x7E08600c543cc02E75a9941D538a6DcA76801b8d',
-                    100: '0xba009f68347886f6fbed2b7374d2ca3702c81625',
+                    100: '0xbA009F68347886f6FbEd2b7374d2cA3702C81625',
                     500: '0x3EF0D0A4F138dEf35676208c4303157fe5760Ecc',
                     1000: '0x970c0AE31904290b79431398eB79E76732Ac5AA9'
                 },
