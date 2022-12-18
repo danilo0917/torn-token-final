@@ -232,10 +232,10 @@ module.exports = {
             },
             storm: {
                 instanceAddress: {
-                    10: '0x7E08600c543cc02E75a9941D538a6DcA76801b8d',
-                    100: '0xbA009F68347886f6FbEd2b7374d2cA3702C81625',
-                    500: '0x3EF0D0A4F138dEf35676208c4303157fe5760Ecc',
-                    1000: '0x970c0AE31904290b79431398eB79E76732Ac5AA9'
+                    10: '0x7AE8F08911D37202aDeD3479095F4522ED535060',
+                    100: '0xaA51A4fF9bD03c9E73A65d71b779c195db7722df',
+                    500: '0xeF3548FB09B60bB1655D6BAdbD4A5d80c0F44c40',
+                    1000: '0x0B3396793bD3E8Fe1fA9B0cdeCE46E71c81Fe3E7'
                 },
                 tokenAddress: '0xbBC4C1e5Bafe890B48639d493ca218EDa13f8e7b',
                 symbol: 'STORM',
