@@ -32,7 +32,7 @@ module.exports = {
     rewardSwap: { address: 'reward-swap.contract.tornadocash.eth', poolWeight: 1e11 },
     tornadoTrees: { address: 'tornado-trees.contract.tornadocash.eth', levels: 20 },
     tornadoProxy: { address: 'tornado-proxy.contract.tornadocash.eth' },
-    tornadoProxyLight: { address: '0x9a19E06322d1FE9bEDBd3F6555803De2713C1762' },
+    tornadoProxyLight: { address: '0xe563D633D32690b6c63c2520F41EDF970a5ae91E' },
     rewardVerifier: { address: 'reward-verifier.contract.tornadocash.eth' },
     treeUpdateVerifier: { address: 'tree-update-verifier.contract.tornadocash.eth' },
     withdrawVerifier: { address: 'withdraw-verifier.contract.tornadocash.eth' },
@@ -41,7 +41,7 @@ module.exports = {
     feeManager: { address: 'fee-manager.contract.tornadocash.eth' },
     tornadoStakingRewards: { address: 'staking-rewards.contract.tornadocash.eth' },
     relayerRegistry: { address: 'relayer-registry.contract.tornadocash.eth' },
-    tornadoRouter: { address: '0x9a19E06322d1FE9bEDBd3F6555803De2713C1762' },
+    tornadoRouter: { address: '0xe563D633D32690b6c63c2520F41EDF970a5ae91E' },
     instanceRegistry: { address: 'instance-registry.contract.tornadocash.eth' },
     deployer: { address: 'deployer.contract.tornadocash.eth' },
     vesting: {
@@ -239,6 +239,19 @@ module.exports = {
                 },
                 tokenAddress: '0xbBC4C1e5Bafe890B48639d493ca218EDa13f8e7b',
                 symbol: 'STORM',
+                decimals: 18,
+            },
+        },
+        netId369: {
+            pls: {
+                instanceAddress: {
+                    1: '0x843E6BC0FF39c2DA23DD304F5EF2a3Ec3267E2b6',
+                    100000: '0x02B0ce56A55712988700061aD8b1d1713eACf128',
+                    1000000: '0x7C83366bD512b9eA87f004909e20EB8c7633b5CB',
+                    10000000: '0x1C8e6702Bd2204992443322aC968f7a580E27b8E',
+                    100000000: '0x57879323019dC64B18e9Df739e2130a6B2F93E3a'
+                },
+                symbol: 'PLS',
                 decimals: 18,
             },
         },
